@@ -102,7 +102,7 @@ your-knowledge-base/
 ### 方式一：在 Claude Code 中作为 Skill 安装（推荐）
 
 ```bash
-git clone https://github.com/licfcn/okb-creator.git ~/.claude/skills/okb-creator
+git clone https://github.com/你的用户名/okb-creator.git ~/.claude/skills/okb-creator
 
 # 在任意目录使用
 cd your-project
@@ -120,7 +120,7 @@ claude
 
 ```bash
 # 克隆仓库
-git clone https://github.com/licfcn/okb-creator.git
+git clone https://github.com/你的用户名/okb-creator.git
 
 # 复制命令文件
 mkdir -p your-vault/.claude/commands
